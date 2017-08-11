@@ -1,4 +1,4 @@
-"""Minimal Python 2 & 3 shim around all Qt bindings
+"""Minimal Python 2 & 3 shim around all Qt bindings a
 
 DOCUMENTATION
     Qt.py was born in the film and visual effects industry to address
